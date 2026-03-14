@@ -121,6 +121,7 @@ cat("  Qualtrics rows:", nrow(sk_raw), "\n")
 # Extract raw survey variables
 sk_survey <- sk_raw %>%
   filter(ResponseId %in% sk_ids) %>%
+  filter(Q3 != "해외") %>%       # Exclude overseas residents
   select(
     ResponseId,
     gender_raw = Q2,         # birth gender

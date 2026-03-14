@@ -113,7 +113,7 @@ Outputs: `output/` (CSVs + session info) and `output/figures/` (PDF + PNG).
 | Country | Respondents | Tasks per respondent | Rows |
 |---------|:-----------:|:--------------------:|:----:|
 | Germany | 1,882 | 6 tasks × 2 profiles | 22,584 |
-| South Korea | 1,768 | 7 tasks × 2 profiles | 24,752 |
+| South Korea | 1,763 | 7 tasks × 2 profiles | 24,682 |
 
 ## Requirements
 

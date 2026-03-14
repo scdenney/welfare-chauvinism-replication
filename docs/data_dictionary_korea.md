@@ -34,7 +34,7 @@ File: `data/korea_job_training.csv`
 | `province` | Q3 | Current province/city of residence | Korean province name (see below) |
 
 ### Province response values (Q3)
-서울, 경기도, 인천, 강원도, 부산, 대구, 울산, 경북, 경남, 광주, 전북, 전남, 제주, 대전, 세종, 충북, 충남, 해외
+서울, 경기도, 인천, 강원도, 부산, 대구, 울산, 경북, 경남, 광주, 전북, 전남, 제주, 대전, 세종, 충북, 충남
 
 ## Education and political identification
 
@@ -98,7 +98,7 @@ The analysis script (`analysis.R`) derives the following variables from the raw 
 - `age.median`: above-median age from `age`
 
 ## Notes
-- This dataset includes respondents who passed the attention check. Filters for specific SI subgroups are applied in the analysis code.
+- This dataset includes respondents who passed the attention check. Overseas residents (해외) were excluded during data preparation. Filters for specific SI subgroups are applied in the analysis code.
 - The `Record` level `None` is a literal string; some software (e.g., pandas) may auto-convert it to missing unless you disable default NA parsing.
 - The `Age` levels are standardized to `25`, `35`, `46`, `62` to match the published design in the manuscript.
 - All survey response values are in the original Korean language; English translations are provided in parentheses in this dictionary.
