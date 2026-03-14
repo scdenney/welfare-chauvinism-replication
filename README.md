@@ -11,15 +11,9 @@
 
 *Ward & Denney (2025) &mdash; Policy and Society (Oxford University Press)*
 
----
-
-[![DOI: Paper](https://img.shields.io/badge/DOI-10.1093%2Fpolsoc%2Fpuaf027-blue?style=flat-square)](https://doi.org/10.1093/polsoc/puaf027)
-[![Dataverse](https://img.shields.io/badge/Harvard%20Dataverse-10.7910%2FDVN%2FWYBIAK-C22A1A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=)](https://doi.org/10.7910/DVN/WYBIAK)
-[![Open Science](https://img.shields.io/badge/Open_Science-Replication_Materials-brightgreen?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://doi.org/10.7910/DVN/WYBIAK)
-[![R](https://img.shields.io/badge/R-%E2%89%A5_4.0-276DC3?style=flat-square&logo=r&logoColor=white)](#requirements)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
-
 </div>
+
+[![DOI: Paper](https://img.shields.io/badge/DOI-10.1093%2Fpolsoc%2Fpuaf027-blue?style=flat-square)](https://doi.org/10.1093/polsoc/puaf027) [![Dataverse](https://img.shields.io/badge/Harvard%20Dataverse-10.7910%2FDVN%2FWYBIAK-C22A1A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=)](https://doi.org/10.7910/DVN/WYBIAK) [![Open Science](https://img.shields.io/badge/Open_Science-Replication_Materials-brightgreen?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://doi.org/10.7910/DVN/WYBIAK) [![R](https://img.shields.io/badge/R-%E2%89%A5_4.0-276DC3?style=flat-square&logo=r&logoColor=white)](#requirements) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
