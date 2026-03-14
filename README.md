@@ -4,14 +4,11 @@
 
 **The Role of National Identity in Social Policy Preferences**
 
-Replication Package: Job-Training Conjoint Experiment
 *Ward & Denney (2025) &mdash; Policy and Society (Oxford University Press)*
 
-[![DOI: Paper](https://img.shields.io/badge/DOI-10.1093%2Fpolsoc%2Fpuaf027-blue?style=flat-square)](https://doi.org/10.1093/polsoc/puaf027) [![Open Science](https://img.shields.io/badge/Open_Science-Replication_Materials-brightgreen?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://doi.org/10.7910/DVN/WYBIAK) [![R](https://img.shields.io/badge/R-%E2%89%A5_4.0-276DC3?style=flat-square&logo=r&logoColor=white)](#requirements)
+[![DOI: Paper](https://img.shields.io/badge/DOI-10.1093%2Fpolsoc%2Fpuaf027-blue?style=flat-square)](https://doi.org/10.1093/polsoc/puaf027) [![Open Science](https://img.shields.io/badge/Open_Science-Replication_Materials-brightgreen?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://github.com/scdenney/welfare-chauvinism-replication) [![R](https://img.shields.io/badge/R-%E2%89%A5_4.0-276DC3?style=flat-square&logo=r&logoColor=white)](#requirements)
 
 </div>
-
-> **Cite the data as:** Denney, Steven. 2025. "Replication Data for: Welfare Chauvinism in Divided Societies: The Role of National Identity in Social Policy Preferences." Harvard Dataverse. [https://doi.org/10.7910/DVN/WYBIAK](https://doi.org/10.7910/DVN/WYBIAK).
 
 ---
 
@@ -114,4 +111,6 @@ Outputs: `output/` (CSVs + session info) and `output/figures/` (PDF + PNG).
 
 ## License
 
-This is an Open Access article distributed under the terms of the [Creative Commons Attribution License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited. Please cite both the paper and the Dataverse deposit when reusing.
+This is an Open Access article distributed under the terms of the [Creative Commons Attribution License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+Data are also archived on [Harvard Dataverse](https://doi.org/10.7910/DVN/WYBIAK) (DOI: 10.7910/DVN/WYBIAK).
