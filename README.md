@@ -46,8 +46,8 @@ Each CSV contains **raw survey responses** in the original language (German/Kore
 |----------|-----------|
 | **Identifiers** | `ResponseId`, `question_profile`, `candidate_choice` |
 | **Conjoint attributes** | `Age`, `Family`, `Gender`, `Occupation`, `Record`, `Origin` |
-| **Demographics** | `age`, `yob`, `female`, geographic location, `education`, ethnicity/political ID |
-| **Survey items** | National identity strength, ethnocentrism items, policy attitudes |
+| **Demographics** | `age`, `yob`, `female`, `education`, `state_at_18`/`province`, `current_state` |
+| **Identity/political** | `national_identity`, `ethnicity` (DE), `political_ideology` (KOR), `party_vote`, ethnocentrism items |
 
 All derived analysis variables (median splits, regional classifications, partisan groups) are constructed transparently in `code/analysis.R` from these raw inputs. See `docs/` for complete variable definitions and response value translations.
 
