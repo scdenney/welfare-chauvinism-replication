@@ -1,0 +1,7 @@
+output/
+dataverse_upload/
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+.DS_Store
