@@ -20,6 +20,8 @@ This package replicates the **job-training conjoint experiment** from:
 
 The experiment investigates social discrimination against co-ethnic citizens in the context of providing support for job training in Germany and South Korea. Respondents evaluate hypothetical candidate profiles for a government job-training program, with the primary attribute of interest being the candidate's **origin at birth** -- whether from the former GDR (Eastern Germany) or North Korea, versus native regions and foreign origins. The design tests whether welfare chauvinism extends to intra-national exclusion of co-nationals from historically divided regions.
 
+Replication materials are also archived on Harvard Dataverse. Denney, Steven. 2026. “Replication Data for: Welfare Chauvinism in Divided Societies: The Role of National Identity in Social Policy Preferences.” Harvard Dataverse. [https://doi.org/10.7910/DVN/WYBIAK](https://doi.org/10.7910/DVN/WYBIAK)
+
 ## Repository Structure
 
 ```
@@ -111,6 +113,4 @@ Outputs: `output/` (CSVs + session info) and `output/figures/` (PDF + PNG).
 
 ## License
 
-This is an Open Access article distributed under the terms of the [Creative Commons Attribution License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
-
-Data are also archived on [Harvard Dataverse](https://doi.org/10.7910/DVN/WYBIAK) (DOI: 10.7910/DVN/WYBIAK).
+These materials are distributed under the terms of the [Creative Commons Attribution License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
